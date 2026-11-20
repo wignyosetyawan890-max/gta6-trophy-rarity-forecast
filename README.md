@@ -1,6 +1,10 @@
 # GTA VI Trophy Rarity Forecast — RACE
 
-Entry for make.fun competition `gta6-trophy-rarity-forecast-01`: forecast,
+[![make.fun · gta6-trophy-rarity-forecast-01](https://make.fun/badge/gta6-trophy-rarity-forecast-01.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-rarity-forecast-01)
+[![rank](https://make.fun/badge/gta6-trophy-rarity-forecast-01/wignyosetyawan890-max/gta6-trophy-rarity-forecast/rank.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-rarity-forecast-01)
+[![reward](https://make.fun/badge/gta6-trophy-rarity-forecast-01/wignyosetyawan890-max/gta6-trophy-rarity-forecast/reward.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-rarity-forecast-01)
+
+Entry for make.fun competition [`gta6-trophy-rarity-forecast-01`](https://make.fun/bounty/gta6-trophy-rarity-forecast-01): forecast,
 for each of GTA VI's PlayStation 5 trophies, the percent of the players
 Exophase tracks who will have earned it at 2026-11-26T00:00:00Z, as five
 quantiles (P05, P25, P50, P75, P95) per trophy, scored by pinball loss on
